@@ -1,0 +1,17 @@
+{
+    "version": 3,
+    "mappings": "AIAA,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,IAAI;EAChB,eAAe,EAAE,IAAI;EACrB,UAAU,EAAE,UAAU;EACtB,eAAe,EAAE,MAAM;CAC1B;;AAMD,AAAA,UAAU,CAAA;EAEN,MAAM,EAAE,MAAM;EACd,OAAO,EAAE,MAAM;CAClB",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/_fonts.scss",
+        "../scss/_variables.scss",
+        "../scss/_mixin.scss",
+        "../scss/_global.scss",
+        "../scss/blocks/_blocks.scss",
+        "../scss/blocks/_header.scss",
+        "../scss/blocks/_hero.scss",
+        "../scss/blocks/_footer.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
